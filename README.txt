@@ -1,20 +1,23 @@
 === Support Tickets ===
-Contributors: takayukister
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9244372
+Contributors: kezakez
 Tags: support, support tickets, helpdesk, ajax, captcha, akismet, WPML, multilingual
 Requires at least: 2.8
-Tested up to: 2.9-rare
-Stable tag: 1.0.1
+Tested up to: 3.4.1
+Stable tag: 2.0.1
 
-With this plugin, you can manage a simple support ticket system on your WordPress.
+With this plugin, you can manage a simple support ticket system on your WordPress site.
 
 == Description ==
 
-Support Tickets is a WordPress plugin which allows you to create and manage a simple support ticket system or helpdesk system on your WordPress. If you are offering a support service and are looking for a simple tool to help you with that, Support Tickets is an excellent choice. I'm using this for my [customization service for Contact Form 7](http://contactform7.com/customization/), as well.
+Support Tickets is a WordPress plugin which allows you to create and manage a simple support ticket system or helpdesk system on your WordPress site. If you are offering a support service and are looking for a simple tool to help you with that, Support Tickets is an excellent choice.
 
-I've developed the Support Tickets plugin based on my [Contact Form 7](http://contactform7.com/) plugin, so there are similarities. If you are familiar with Contact Form 7, you'll be comfortable with Support Tickets very soon.
+This code has been forked with the permission of the original author Takayuki Miyoshi @takayukister
+This fork contains bug fixes.
+The original code can be found at http://wordpress.org/extend/plugins/support-tickets/
 
-**[Home page](http://ideasilo.wordpress.com/2009/10/28/support-tickets/)**
+The plugin is based on [Contact Form 7](http://contactform7.com/) plugin.
+
+**[Home page](http://www.keza.net/support-tickets-v2/)**
 
 = Multilingual Support =
 
@@ -41,6 +44,12 @@ If you have questions, please submit them [to the support forum](http://wordpres
 1. screenshot-1.png
 
 == Changelog ==
+
+= 2.0.1 =
+* Addressed an issue that caused the ajax posting method to fail.
+* Added the ability to mark a ticket as read.
+* Ensured that multiline fields display multiple lines in the ticket admin page.
+* Made the ticket number display tickets admin page.
 
 = 1.0.1 =
 * Bug fix: Additional fields don't show up.
