@@ -1,4 +1,4 @@
-=== Support Tickets ===
+=== Support Tickets v2 ===
 Contributors: kezakez
 Tags: support, support tickets, helpdesk, ajax, captcha, akismet, WPML, multilingual
 Requires at least: 2.8
@@ -30,14 +30,14 @@ You will have the ability to make a "multilingual support ticket system" with th
 
 == Installation ==
 
-1. Upload the entire `support-tickets` folder to the `/wp-content/plugins/` directory.
+1. Upload the entire `support-tickets-v2` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 You will find 'Support' menu in your WordPress admin panel.
 
 == Frequently Asked Questions ==
 
-If you have questions, please submit them [to the support forum](http://wordpress.org/tags/support-tickets?forum_id=10#postform).
+If you have questions, please check the [Home page](http://www.keza.net/support-tickets-v2/).
 
 == Screenshots ==
 

@@ -1,14 +1,16 @@
 <?php
 /*
-Plugin Name: Support Tickets
-Plugin URI: http://ideasilo.wordpress.com/2009/10/28/support-tickets/
-Description: With this plugin, you can manage a simple support ticket system on your WordPress.
-Author: Takayuki Miyoshi
-Author URI: http://ideasilo.wordpress.com/
-Version: 1.0.1
+Plugin Name: Support Tickets c2
+Plugin URI: http://www.keza.net/support-tickets-v2/
+Description: With this plugin, you can manage a simple support ticket system on your WordPress site.
+Author: Keiran McDonald
+Author URI: http://www.keza.net/support-tickets-v2/
+Version: 2.0.1
 */
 
-/*  Copyright 2009 Takayuki Miyoshi (email: takayukister at gmail.com)
+/*  
+	Copyright 2012 Keiran McDonald
+	Copyright 2009 Takayuki Miyoshi (email: takayukister at gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -25,7 +27,7 @@ Version: 1.0.1
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-define( 'SUPTIC_VERSION', '1.0.1' );
+define( 'SUPTIC_VERSION', '2.0.1' );
 
 if ( ! defined( 'SUPTIC_PLUGIN_BASENAME' ) )
 	define( 'SUPTIC_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
